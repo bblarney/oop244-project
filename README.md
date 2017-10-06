@@ -3,7 +3,7 @@ C++ Point of Sale Project
 
 1. This was a school project for a 2nd semester C++ class. It was created in a series of 5 'Milestones'
 
-2.. The task for this project was to create an application that managed a list of items stocked in a store for sale. 
+2. The task for this project was to create an application that managed a list of items stocked in a store for sale. 
 The application keeps track of the quantity of items in the store, saved in a file and updates their quantity as they are sold.
 
 
